@@ -67,6 +67,10 @@ public class EjerRepaso2EV {
 		JLabel lblTraduccion = new JLabel("Traduccion: ");
 		lblTraduccion.setBounds(12, 61, 72, 17);
 		frame.getContentPane().add(lblTraduccion);
+	
+		//JLabel lblTraduccion = new JLabel("Traduccion: ");
+		//lblTraduccion.setBounds(12, 61, 72, 17);
+		//frame.getContentPane().add(lblTraduccion);
 
 
 		textField2 = new JTextField();
